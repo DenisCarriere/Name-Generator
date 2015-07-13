@@ -1,0 +1,100 @@
+Toronto	Ontario	2615060
+Montreal	Quebec	1649519
+Calgary	Alberta	1096833
+Ottawa	Ontario	883391
+Edmonton	Alberta	812201
+Mississauga	Ontario	713443
+Winnipeg	Manitoba	663617
+Vancouver	British Columbia	603502
+Brampton	Ontario	523911
+Hamilton	Ontario	519949
+Quebec City	Quebec	516622
+Surrey	British Columbia	468251
+Laval	Quebec	401553
+Halifax	Nova Scotia	390096
+London	Ontario	366151
+Markham	Ontario	301709
+Vaughan	Ontario	288301
+Gatineau	Quebec	265349
+Longueuil	Quebec	231409
+Burnaby	British Columbia	223218
+Saskatoon	Saskatchewan	222189
+Kitchener	Ontario	219153
+Windsor	Ontario	210891
+Regina	Saskatchewan	193100
+Richmond	British Columbia	190473
+Richmond Hill	Ontario	185541
+Oakville	Ontario	182520
+Burlington	Ontario	175779
+Greater Sudbury	Ontario	160274
+Sherbrooke	Quebec	154601
+Oshawa	Ontario	149607
+Saguenay	Quebec	144746
+Lévis	Quebec	138769
+Barrie	Ontario	135711
+Abbotsford	British Columbia	133497
+St. Catharines	Ontario	131400
+Trois-Rivières	Quebec	131338
+Cambridge	Ontario	126748
+Coquitlam	British Columbia	126456
+Kingston	Ontario	123363
+Whitby	Ontario	122022
+Guelph	Ontario	121688
+Kelowna	British Columbia	117312
+Saanich	British Columbia	109752
+Ajax	Ontario	109600
+Thunder Bay	Ontario	108359
+Terrebonne	Quebec	106322
+St. John's	Newfoundland and Labrador	106172
+Langley	British Columbia	104177
+Chatham-Kent	Ontario	103671
+Delta	British Columbia	99863
+Waterloo	Ontario	98780
+Cape Breton	Nova Scotia	97398
+Brantford	Ontario	93650
+Strathcona County	Alberta	92490
+Saint-Jean-sur-Richelieu	Quebec	92394
+Red Deer	Alberta	90564
+Pickering	Ontario	88721
+Kamloops	British Columbia	85678
+Clarington	Ontario	84548
+North Vancouver	British Columbia	84412
+Milton	Ontario	84362
+Nanaimo	British Columbia	83810
+Lethbridge	Alberta	83517
+Niagara Falls	Ontario	82997
+Repentigny	Quebec	82000
+Victoria	British Columbia	80017
+Newmarket	Ontario	79978
+Brossard	Quebec	79273
+Peterborough	Ontario	78698
+Chilliwack	British Columbia	77936
+Maple Ridge	British Columbia	76052
+Sault Ste. Marie	Ontario	75141
+Kawartha Lakes	Ontario	73214
+Sarnia	Ontario	72366
+Prince George	British Columbia	71974
+Drummondville	Quebec	71852
+Saint John	New Brunswick	70063
+Moncton	New Brunswick	69074
+Saint-Jérôme	Quebec	68456
+New Westminster	British Columbia	65976
+Wood Buffalo	Alberta	65565
+Granby	Quebec	63433
+Norfolk County	Ontario	63175
+St. Albert	Alberta	61466
+Medicine Hat	Alberta	60005
+Caledon	Ontario	59460
+Halton Hills	Ontario	59008
+Port Coquitlam	British Columbia	56342
+Fredericton	New Brunswick	56224
+Grande Prairie	Alberta	55032
+North Bay	Ontario	53651
+Blainville	Quebec	53510
+Saint-Hyacinthe	Quebec	53236
+Aurora	Ontario	53203
+Welland	Ontario	50631
+Shawinigan	Quebec	50060
+Dollard-des-Ormeaux	Quebec	49637
+Belleville	Ontario	49454
+North Vancouver	British Columbia	48196
